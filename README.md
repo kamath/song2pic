@@ -6,13 +6,13 @@
 Our project takes any MIDI file within the <code>music/</code> directory and takes the tick and data elements of the file to create an image. It's pretty lit tbh.
 
 ##Demo
-Starboy by The Weeknd:
+Starboy by The Weeknd:<br>
 ![starboy](images/starboy.png)
 
-24K Magic by Bruno Mars:
+24K Magic by Bruno Mars:<br>
 ![24k Magic](images/24kmagic.png)
 
-Black Beatles by Rae Sremmurd:
+Black Beatles by Rae Sremmurd:<br>
 ![Black Beatles](images/blackbeatles.png)
 
 ##Requirements:
